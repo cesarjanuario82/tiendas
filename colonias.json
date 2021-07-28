@@ -1,0 +1,22 @@
+[
+        {
+          "id": 1,
+          "nombre": "ZONA CENTRO",
+          "id_municipio": 1001
+        },
+        {
+          "id": 2,
+          "nombre": "OLIVARES SANTANA",
+          "id_municipio": 1001
+        },
+        {
+          "id": 3,
+          "nombre": "RAMON ROMO FRANCO",
+          "id_municipio": 1001
+        },
+        {
+          "id": 4,
+          "nombre": "SAN CAYETANO",
+          "id_municipio": 1001
+        }
+      ]
