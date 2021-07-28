@@ -1,0 +1,22 @@
+[
+        {
+          "id": 1001,
+          "nombre": "Aguascalientes",
+          "id_estado": 1
+        },
+        {
+          "id": 1002,
+          "nombre": "Asientos",
+          "id_estado": 1
+        },
+        {
+          "id": 1003,
+          "nombre": "Calvillo",
+          "id_estado": 1
+        },
+        {
+          "id": 1004,
+          "nombre": "Cosío",
+          "id_estado": 1
+        }
+      ]
