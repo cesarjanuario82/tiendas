@@ -1,112 +1,72 @@
 [
-            {
-            "id": "15832",
-            "tipo": "Bimbonet",
-            "latitude": 19.3480303,
-            "longitude": -99.1148986,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12336
-            },
-            {
-            "id": "28576",
-            "tipo": "OXXO",
-            "latitude": 19.34982788,
-            "longitude": -99.11300763,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12336
-            },
-            {
-            "id": "14457",
-            "tipo": "Bimbonet",
-            "latitude": 19.3482167,
-            "longitude": -99.1198779,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 11572
-            },
-            {
-            "id": "10398",
-            "tipo": "Bimbonet",
-            "latitude": 19.3534891,
-            "longitude": -99.1181785,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12334
-            },
-            {
-            "id": "8196",
-            "tipo": "Bimbonet",
-            "latitude": 19.3504316,
-            "longitude": -99.1208165,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 11572
-            },
-            {
-            "id": "9210",
-            "tipo": "Bimbonet",
-            "latitude": 19.3422886,
-            "longitude": -99.1134299,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12329
-            },
-            {
-            "id": "2181",
-            "tipo": "BANORTE",
-            "latitude": 19.3547476,
-            "longitude": -99.1171084,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12334
-            },
-            {
-            "id": "22943",
-            "tipo": "BBVA",
-            "latitude": 19.3418321,
-            "longitude": -99.1119684,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12329
-            },
-            {
-            "id": "19953",
-            "tipo": "ATT",
-            "latitude": 19.341151,
-            "longitude": -99.1167924,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 11574
-            },
-            {
-            "id": "32631",
-            "tipo": "OXXO",
-            "latitude": 19.35385078,
-            "longitude": -99.12111044,
-            "nombre": null,
-            "horario_lun_vie": null,
-            "horario_sab": null,
-            "horario_dom": null,
-            "id_colonia": 12334
-            }
-        ];
+    {
+        "distance": 2369.4,
+        "tipo": "ATT",
+        "latitude": 19.368852,
+        "longitude": -99.121469,
+        "horario": null
+    },
+    {
+        "distance": 3710.5,
+        "tipo": "ATT",
+        "latitude": 19.377116,
+        "longitude": -99.096122,
+        "horario": null
+    },
+    {
+        "distance": 3730.7,
+        "tipo": "ATT",
+        "latitude": 19.342536,
+        "longitude": -99.149451,
+        "horario": null
+    },
+    {
+        "distance": 3953.7,
+        "tipo": "ATT",
+        "latitude": 19.382008,
+        "longitude": -99.101601,
+        "horario": null
+    },
+    {
+        "distance": 1283.3,
+        "tipo": "BANAMEX",
+        "latitude": 19.33795564,
+        "longitude": -99.10972613,
+        "horario": null
+    },
+    {
+        "distance": 1611.1,
+        "tipo": "BANAMEX",
+        "latitude": 19.348575,
+        "longitude": -99.129832,
+        "horario": null
+    },
+    {
+        "distance": 1644.3,
+        "tipo": "BANAMEX",
+        "latitude": 19.35014635,
+        "longitude": -99.13006176,
+        "horario": null
+    },
+    {
+        "distance": 1804.2,
+        "tipo": "BANAMEX",
+        "latitude": 19.35556179,
+        "longitude": -99.09894655,
+        "horario": null
+    },
+    {
+        "distance": 2218.9,
+        "tipo": "BANAMEX",
+        "latitude": 19.344911,
+        "longitude": -99.135263,
+        "horario": null
+    },
+    {
+        "distance": 2361.3,
+        "tipo": "BANAMEX",
+        "latitude": 19.368812,
+        "longitude": -99.121349,
+        "horario": null
+    }
+]
