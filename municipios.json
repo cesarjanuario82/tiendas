@@ -1,22 +1,82 @@
 [
-        {
-          "id": 1001,
-          "nombre": "Aguascalientes",
-          "id_estado": 1
-        },
-        {
-          "id": 1002,
-          "nombre": "Asientos",
-          "id_estado": 1
-        },
-        {
-          "id": 1003,
-          "nombre": "Calvillo",
-          "id_estado": 1
-        },
-        {
-          "id": 1004,
-          "nombre": "Cosío",
-          "id_estado": 1
-        }
-      ]
+    {
+        "id": 9002,
+        "nombre": "Azcapotzalco",
+        "id_estado": 9
+    },
+    {
+        "id": 9003,
+        "nombre": "Coyoacán",
+        "id_estado": 9
+    },
+    {
+        "id": 9004,
+        "nombre": "Cuajimalpa de Morelos",
+        "id_estado": 9
+    },
+    {
+        "id": 9005,
+        "nombre": "Gustavo A. Madero",
+        "id_estado": 9
+    },
+    {
+        "id": 9006,
+        "nombre": "Iztacalco",
+        "id_estado": 9
+    },
+    {
+        "id": 9007,
+        "nombre": "Iztapalapa",
+        "id_estado": 9
+    },
+    {
+        "id": 9008,
+        "nombre": "La Magdalena Contreras",
+        "id_estado": 9
+    },
+    {
+        "id": 9009,
+        "nombre": "Milpa Alta",
+        "id_estado": 9
+    },
+    {
+        "id": 9010,
+        "nombre": "Álvaro Obregón",
+        "id_estado": 9
+    },
+    {
+        "id": 9011,
+        "nombre": "Tláhuac",
+        "id_estado": 9
+    },
+    {
+        "id": 9012,
+        "nombre": "Tlalpan",
+        "id_estado": 9
+    },
+    {
+        "id": 9013,
+        "nombre": "Xochimilco",
+        "id_estado": 9
+    },
+    {
+        "id": 9014,
+        "nombre": "Benito Juárez",
+        "id_estado": 9
+    },
+    {
+        "id": 9015,
+        "nombre": "Cuauhtémoc",
+        "id_estado": 9
+    },
+    {
+        "id": 9016,
+        "nombre": "Miguel Hidalgo",
+        "id_estado": 9
+    },
+    {
+        "id": 9017,
+        "nombre": "Venustiano Carranza",
+        "id_estado": 9
+    }
+]
