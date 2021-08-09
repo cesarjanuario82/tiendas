@@ -1,72 +1,92 @@
 [
-    {
-        "distance": 2369.4,
-        "tipo": "ATT",
-        "latitude": 19.368852,
-        "longitude": -99.121469,
-        "horario": null
-    },
-    {
-        "distance": 3710.5,
-        "tipo": "ATT",
-        "latitude": 19.377116,
-        "longitude": -99.096122,
-        "horario": null
-    },
-    {
-        "distance": 3730.7,
-        "tipo": "ATT",
-        "latitude": 19.342536,
-        "longitude": -99.149451,
-        "horario": null
-    },
-    {
-        "distance": 3953.7,
-        "tipo": "ATT",
-        "latitude": 19.382008,
-        "longitude": -99.101601,
-        "horario": null
-    },
-    {
-        "distance": 1283.3,
-        "tipo": "BANAMEX",
-        "latitude": 19.33795564,
-        "longitude": -99.10972613,
-        "horario": null
-    },
-    {
-        "distance": 1611.1,
-        "tipo": "BANAMEX",
-        "latitude": 19.348575,
-        "longitude": -99.129832,
-        "horario": null
-    },
-    {
-        "distance": 1644.3,
-        "tipo": "BANAMEX",
-        "latitude": 19.35014635,
-        "longitude": -99.13006176,
-        "horario": null
-    },
-    {
-        "distance": 1804.2,
-        "tipo": "BANAMEX",
-        "latitude": 19.35556179,
-        "longitude": -99.09894655,
-        "horario": null
-    },
-    {
-        "distance": 2218.9,
-        "tipo": "BANAMEX",
-        "latitude": 19.344911,
-        "longitude": -99.135263,
-        "horario": null
-    },
-    {
-        "distance": 2361.3,
-        "tipo": "BANAMEX",
-        "latitude": 19.368812,
-        "longitude": -99.121349,
-        "horario": null
-    }
+{
+"distance": 1458.3,
+"tipo": "ATT",
+"latitude": 19.438525,
+"longitude": -99.178097,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 142
+},
+{
+"distance": 2303.7,
+"tipo": "ATT",
+"latitude": 19.4061873,
+"longitude": -99.168977,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 128
+},
+{
+"distance": 2325.2,
+"tipo": "ATT",
+"latitude": 19.426314,
+"longitude": -99.149921,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 5
+},
+{
+"distance": 3150.4,
+"tipo": "ATT",
+"latitude": 19.4493175,
+"longitude": -99.1540012,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 3
+},
+{
+"distance": 3469.1,
+"tipo": "ATT",
+"latitude": 19.439335,
+"longitude": -99.202338,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 2
+},
+{
+"distance": 3496.9,
+"tipo": "ATT",
+"latitude": 19.39769271,
+"longitude": -99.1849826,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 60
+},
+{
+"distance": 3898.0,
+"tipo": "ATT",
+"latitude": 19.428006,
+"longitude": -99.209237,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 20 hrs",
+"id": 4
+},
+{
+"distance": 272.3,
+"tipo": "BANAMEX",
+"latitude": 19.42541009,
+"longitude": -99.16988091,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 16 hrs",
+"id": 171
+},
+{
+"distance": 462.9,
+"tipo": "BANAMEX",
+"latitude": 19.422819,
+"longitude": -99.170482,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 16 hrs",
+"id": 1309
+},
+{
+"distance": 469.7,
+"tipo": "BANAMEX",
+"latitude": 19.42275457,
+"longitude": -99.17048,
+"isOpen": "Abierto",
+"horario": "abierto hasta las 16 hrs",
+"id": 1414
+}
 ]
