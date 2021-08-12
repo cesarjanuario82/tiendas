@@ -1,31 +1,69 @@
 {
 
-"crm": "SAS",
-"fechaVigencia": "30 de agosto 2021",
-"diasVigencia": 3,
+"crm": "KAIROS",
+"fechaVigencia": "2009-08-21 00:00:00.0",
+"diasVigencia": -4374,
 "oferta": [
-    {
-    "topupAmount": "50",
-    "dn": "5530301228",
-    "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
-    "beneficiosBase": [
-    {
-    "benefitType": "Navegar",
-    "benefitQuantity": "500 MB"
-    },
-    {
-    "benefitType": "Llamadas/SMS",
-    "benefitQuantity": "Ilimitado*"
-    },
-    {
-    "benefitType": "Redes Sociales",
-    "benefitQuantity": "Ilimitado**"
-    }
-    ],
-    "beneficiosOferta": {
-    "benefitType": "Adicionales",
-    "benefitQuantity": "500 MB"
-    }
-    }
-    ]
+{
+"topupAmount": "10",
+"dn": "567702000000",
+"tskId": "107706402184833",
+"beneficiosBase": [
+{
+"benefitType": "Redes Sociales ",
+"benefitQuantity": "Ilimitadas"
+},
+{
+"benefitType": "Datos",
+"benefitQuantity": "100 MB"
+},
+{
+"benefitType": "GB extra para video",
+"benefitQuantity": "nan"
+},
+{
+"benefitType": "Mensajes",
+"benefitQuantity": "Ilimitados"
+},
+{
+"benefitType": "Vigencia",
+"benefitQuantity": "1 día"
+},
+{
+"benefitType": "Minutos",
+"benefitQuantity": "Ilimitados"
+}
+],
+"beneficiosOferta": [
+{
+"benefitType": "Días adicionales de SMS",
+"benefitQuantity": ""
+},
+{
+"benefitType": "GB extra para video",
+"benefitQuantity": ""
+},
+{
+"benefitType": "Días adicionales de minutos",
+"benefitQuantity": ""
+},
+{
+"benefitType": "Datos",
+"benefitQuantity": "10 GB"
+},
+{
+"benefitType": "GB extra para videojuegos",
+"benefitQuantity": ""
+},
+{
+"benefitType": "Días adicionales de RRSS",
+"benefitQuantity": ""
+},
+{
+"benefitType": "GB extra para música",
+"benefitQuantity": ""
+}
+]
+}
+]
 }
