@@ -1,7 +1,7 @@
 {
 
 "crm": "KAIROS",
-"fechaVigencia": "2009-08-21 00:00:00.0",
+"fechaVigencia": "2021-08-21 00:00:00.0",
 "diasVigencia": 3,
 "oferta": [
 {
@@ -18,16 +18,8 @@
 "benefitQuantity": "100 MB"
 },
 {
-"benefitType": "GB extra para video",
-"benefitQuantity": "nan"
-},
-{
 "benefitType": "Mensajes",
 "benefitQuantity": "Ilimitados"
-},
-{
-"benefitType": "Vigencia",
-"benefitQuantity": "1 día"
 },
 {
 "benefitType": "Minutos",
@@ -36,32 +28,8 @@
 ],
 "beneficiosOferta": [
 {
-"benefitType": "Días adicionales de SMS",
-"benefitQuantity": ""
-},
-{
-"benefitType": "GB extra para video",
-"benefitQuantity": ""
-},
-{
-"benefitType": "Días adicionales de minutos",
-"benefitQuantity": ""
-},
-{
-"benefitType": "Datos",
-"benefitQuantity": "10 GB"
-},
-{
-"benefitType": "GB extra para videojuegos",
-"benefitQuantity": ""
-},
-{
-"benefitType": "Días adicionales de RRSS",
-"benefitQuantity": ""
-},
-{
-"benefitType": "GB extra para música",
-"benefitQuantity": ""
+"benefitType": "GB",
+"benefitQuantity": "1"
 }
 ]
 }
