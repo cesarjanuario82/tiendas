@@ -2,7 +2,7 @@
 
 "crm": "KAIROS",
 "fechaVigencia": "2021-08-21 00:00:00.0",
-"diasVigencia": 3,
+"diasVigencia": 8,
 "oferta": [
 {
 "topupAmount": "10",
@@ -10,25 +10,21 @@
 "tskId": "107706402184833",
 "beneficiosBase": [
 {
-"benefitType": "Redes Sociales ",
-"benefitQuantity": "Ilimitadas"
-},
-{
-"benefitType": "Datos",
-"benefitQuantity": "100 MB"
-},
-{
 "benefitType": "Mensajes",
 "benefitQuantity": "Ilimitados"
 },
 {
 "benefitType": "Minutos",
 "benefitQuantity": "Ilimitados"
-}
+},
+  {
+"benefitType": "Redes Sociales ",
+"benefitQuantity": "Ilimitadas"
+},
 ],
 "beneficiosOferta": [
 {
-"benefitType": "GB",
+"benefitType": "GB adicional",
 "benefitQuantity": "1"
 }
 ]
