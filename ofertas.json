@@ -1,31 +1,31 @@
 {
-
-"crm": "KAIROS",
-"fechaVigencia": "2021-08-21 00:00:00.0",
-"diasVigencia": 8,
+"status": "000",
+"crm": "SAS",
+"fechaVigencia": "2021-08-05 00:00:00",
+"diasVigencia": 3,
 "oferta": [
 {
-"topupAmount": "10",
-"dn": "567702000000",
-"tskId": "107706402184833",
+"topupAmount": "50",
+"dn": "5530301228",
+"tskId": "1212-13fh03-fsdr0-dg4546-fsds",
 "beneficiosBase": [
 {
-"benefitType": "Mensajes",
-"benefitQuantity": "Ilimitados"
+"benefitType": "Navegar",
+"benefitQuantity": "500 MB"
 },
 {
-"benefitType": "Minutos",
-"benefitQuantity": "Ilimitados"
+"benefitType": "Llamadas/SMS",
+"benefitQuantity": "Ilimitado*"
 },
-  {
-"benefitType": "Redes Sociales ",
-"benefitQuantity": "Ilimitadas"
-},
+{
+"benefitType": "Redes Sociales",
+"benefitQuantity": "Ilimitado**"
+}
 ],
 "beneficiosOferta": [
 {
-"benefitType": "GB adicional",
-"benefitQuantity": "1"
+"benefitType": "Adicionales",
+"benefitQuantity": "500 MB"
 }
 ]
 }
