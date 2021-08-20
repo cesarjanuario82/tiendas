@@ -1,0 +1,37 @@
+{
+"status": "000",
+"crm": "SAS",
+"fechaVigencia": "2021-08-25 00:00:00",
+"diasVigencia": 3,
+"oferta": [
+{
+"topupAmount": "100",
+"dn": "5530301228",
+"tskId": "1212-13fh03-fsdr0-dg4546-fsds",
+"beneficiosBase": [
+{
+"benefitType": "Navegar",
+"benefitQuantity": "500 MB"
+},
+{
+"benefitType": "Llamadas/SMS",
+"benefitQuantity": "Ilimitado*"
+},
+{
+"benefitType": "Spotify",
+"benefitQuantity": "200 MB"
+},
+ {
+"benefitType": "Redes Sociales",
+"benefitQuantity": "Ilimitado**"
+}
+],
+"beneficiosOferta": [
+{
+"benefitType": "Adicionales",
+"benefitQuantity": "1 GB"
+}
+]
+}
+]
+}
