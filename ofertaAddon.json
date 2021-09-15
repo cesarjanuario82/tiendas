@@ -3,15 +3,11 @@
 "crm": "SAS",
 "fechaVigencia": "2021-08-05 00:00:00",
 "diasVigencia": 3,
-"oferta": [
-
-],
+"oferta": [],
 "beneficiosOferta": [
-{
-"benefitType": "Adicionales",
-"benefitQuantity": "3 GB"
-}
-]
-}
-]
+    {
+    "benefitType": "Adicionales",
+    "benefitQuantity": "3 GB"
+    }
+  ]
 }
