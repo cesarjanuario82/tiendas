@@ -5,18 +5,16 @@
 "diasVigencia": 3,
 "oferta": [
             {
-            "topupAmount": "150",
-            "dn": "5530301228",
-            "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
-            "beneficiosBase": [
-                
-        ],
-        "beneficiosOferta": [
-                {
-                "benefitType": "Adicionales",
-                "benefitQuantity": "2 GB"
-                }
-            ]
-        }
-    ]
+               "topupAmount": "150",
+               "dn": "5530301228",
+               "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
+               "beneficiosBase": [],
+               "beneficiosOferta": [
+                  {
+                    "benefitType": "Adicionales",
+                    "benefitQuantity": "2 GB"
+                  }
+               ]
+            }
+          ]
 }
