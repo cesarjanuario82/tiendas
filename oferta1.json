@@ -14,8 +14,8 @@
 "benefitQuantity": "500 MB"
 },
 {
-"benefitType": "Llamadas/SMS",
-"benefitQuantity": "Ilimitado"
+"benefitType": "Llamadas",
+"benefitQuantity": "Ilimitados"
 },
 {
 "benefitType": "Spotify",
@@ -28,7 +28,7 @@
 ],
 "beneficiosOferta": [
 {
-"benefitType": "Adicionales",
+"benefitType": "Datos",
 "benefitQuantity": "500 MB"
 }
 ]
