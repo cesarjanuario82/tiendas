@@ -10,11 +10,11 @@
 "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
 "beneficiosBase": [
 {
-"benefitType": "Navegar",
+"benefitType": "Datos",
 "benefitQuantity": "500 MB"
 },
 {
-"benefitType": "Llamadas/SMS",
+"benefitType": "Minutos",
 "benefitQuantity": "Ilimitado*"
 },
 {
@@ -23,12 +23,16 @@
 },
  {
 "benefitType": "Redes Sociales",
-"benefitQuantity": "Ilimitado**"
-}
+"benefitQuantity": "Ilimitadas"
+},
+ {
+   "benefitType": "Vigencia",
+   "benefitQuantity": "5 días"
+  }
 ],
 "beneficiosOferta": [
 {
-"benefitType": "Adicionales",
+"benefitType": "Datos",
 "benefitQuantity": "1 GB"
 }
 ]
