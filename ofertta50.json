@@ -20,6 +20,10 @@
 {
 "benefitType": "Redes Sociales",
 "benefitQuantity": "Ilimitadas"
+},
+{
+ "benefitType": "Vigencia",
+ "benefitQuantity": "5 días"
 }
 ],
 "beneficiosOferta": [
