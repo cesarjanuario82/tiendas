@@ -23,11 +23,11 @@
                 },
                 {
                 "benefitType": "Llamadas/SMS",
-                "benefitQuantity": "Ilimitado*"
+                "benefitQuantity": "Ilimitados"
                 },
                 {
                 "benefitType": "Redes Sociales",
-                "benefitQuantity": "Ilimitado**"
+                "benefitQuantity": "Ilimitados"
                 },
               {
             "benefitType": "Vigencia",
@@ -36,7 +36,7 @@
         ],
         "beneficiosOferta": [
                 {
-                "benefitType": "Adicionales",
+                "benefitType": "Datos",
                 "benefitQuantity": "1 GB"
                 }
             ]
