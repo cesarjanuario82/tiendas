@@ -20,6 +20,10 @@
 {
 "benefitType": "Spotify",
 "benefitQuantity": "200 MB"
+},
+  {
+"benefitType": "Vigencia",
+"benefitQuantity": "5 días"
 }
 ],
 "beneficiosOferta": [
