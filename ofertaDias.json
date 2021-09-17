@@ -15,7 +15,7 @@
 },
 {
 "benefitType": "Minutos",
-"benefitQuantity": "Ilimitado*"
+"benefitQuantity": "Ilimitado"
 },
 {
 "benefitType": "Mensajes",
@@ -23,7 +23,7 @@
 },
  {
 "benefitType": "Redes Sociales",
-"benefitQuantity": "Ilimitado**"
+"benefitQuantity": "Ilimitado"
 },
   {
 "benefitType": "Vigencia",
