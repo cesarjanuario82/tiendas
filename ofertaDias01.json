@@ -1,0 +1,49 @@
+{
+"status": "000",
+"crm": "SAS",
+"fechaVigencia": "2021-08-25 00:00:00",
+"diasVigencia": 3,
+"oferta": [
+{
+"topupAmount": "100",
+"dn": "5530301228",
+"tskId": "1212-13fh03-fsdr0-dg4546-fsds",
+"beneficiosBase": [
+{
+"benefitType": "Datos",
+"benefitQuantity": "500 MB"
+},
+{
+"benefitType": "Minutos",
+"benefitQuantity": "Ilimitados"
+},
+{
+"benefitType": "Mensajes",
+"benefitQuantity": "Ilimitados"
+},
+ {
+"benefitType": "Redes Sociales",
+"benefitQuantity": "Ilimitadas"
+},
+  {
+"benefitType": "Vigencia",
+"benefitQuantity": "5 días"
+}
+],
+"beneficiosOferta": [
+{
+"benefitType": "Adicionales",
+"benefitQuantity": "2 GB"
+},
+  {
+"benefitType": "Días adicionales de minutos",
+"benefitQuantity": "1 días"
+},
+{
+"benefitType": "Días adicionales de SMS",
+"benefitQuantity": "1 días"
+}
+]
+}
+]
+}
