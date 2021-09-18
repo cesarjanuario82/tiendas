@@ -36,15 +36,15 @@
 "benefitQuantity": "2 GB"
 },
   {
-"benefitType": "Adicionales",
+"benefitType": "Días adicionales de minutos",
 "benefitQuantity": "5 días"
 },
 {
-"benefitType": "Adicionales",
+"benefitType": "Días adicionales de SMS",
 "benefitQuantity": "5 días"
 },
 {
-"benefitType": "Adicionales",
+"benefitType": "Días adicionales de RRSS",
 "benefitQuantity": "5 días"
 }
 ]
