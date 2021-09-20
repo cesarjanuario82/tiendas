@@ -10,19 +10,15 @@
             "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
             "beneficiosBase": [
                 {
-                "benefitType": "Navegar",
+                "benefitType": "Datos",
                 "benefitQuantity": "1.5 GB"
                 },
                 {
-                "benefitType": "Spotify",
-                "benefitQuantity": "1 GB"
+                "benefitType": "Mensajes",
+                "benefitQuantity": "Ilimitados"
                 },
                 {
-                "benefitType": "Videos",
-                "benefitQuantity": "2.5 GB"
-                },
-                {
-                "benefitType": "Llamadas/SMS",
+                "benefitType": "Llamadas",
                 "benefitQuantity": "Ilimitados"
                 },
                 {
