@@ -27,7 +27,7 @@
 },
   {
 "benefitType": "Vigencia",
-"benefitQuantity": "5 días"
+"benefitQuantity": "1 día"
 }
 ],
 "beneficiosOferta": [
@@ -37,11 +37,11 @@
 },
   {
 "benefitType": "Días adicionales de minutos",
-"benefitQuantity": "1 días"
+"benefitQuantity": "1 día"
 },
 {
 "benefitType": "Días adicionales de SMS",
-"benefitQuantity": "1 días"
+"benefitQuantity": "1 día"
 }
 ]
 }
