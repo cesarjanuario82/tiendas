@@ -9,6 +9,22 @@
                 "dn": "5530301228",
                 "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
                 "beneficiosBase": [
+                            {
+                "benefitType": "Datos",
+                "benefitQuantity": "1.5 GB"
+                },
+                {
+                "benefitType": "Minutos",
+                "benefitQuantity": "Ilimitados"
+                },
+                {
+                "benefitType": "Mensajes",
+                "benefitQuantity": "Ilimitados"
+                },
+                {
+                "benefitType": "Redes Sociales",
+                "benefitQuantity": "Ilimitadas"
+                },
                      {
                         "benefitType": "Vigencia",
                         "benefitQuantity": "5 días"
