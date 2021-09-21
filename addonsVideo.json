@@ -1,0 +1,29 @@
+{
+"status": "000",
+"crm": "SAS",
+"fechaVigencia": "2021-08-21 00:00:00",
+"diasVigencia": 3,
+"oferta": [
+            {
+                "topupAmount": "150",
+                "dn": "5530301228",
+                "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
+                "beneficiosBase": [
+                     {
+                        "benefitType": "Vigencia",
+                        "benefitQuantity": "5 días"
+                      }
+                ],
+                "beneficiosOferta": [
+                    {
+                    "benefitType": "Video",
+                    "benefitQuantity": "2 GB"
+                    },
+                    {
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "2 días"
+                    }
+                ]
+            }
+          ]
+}
