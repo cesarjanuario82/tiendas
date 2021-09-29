@@ -10,16 +10,16 @@
 "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
 "beneficiosBase": [
 {
-"benefitType": "Navegar",
+"benefitType": "Datos",
 "benefitQuantity": "500 MB"
+},
+{
+"benefitType": "Minutos",
+"benefitQuantity": "Ilimitados"
 },
 {
 "benefitType": "Llamadas",
 "benefitQuantity": "Ilimitados"
-},
-{
-"benefitType": "Spotify",
-"benefitQuantity": "200 MB"
 },
   {
 "benefitType": "Vigencia",
