@@ -7,7 +7,7 @@
        {
           "topupAmount":"50",
           "dn":"5530301228",
-          "tskId":"1212-13fh03-fsdr0-dg4546-fsds",
+          "tskId":"1111-111111-11111-dg4546-fsds",
           "beneficiosBase":[
              {
                 "benefitType":"Datos",
@@ -35,8 +35,8 @@
        },
        {
         "topupAmount":"100",
-        "dn":"5530301228",
-        "tskId":"1212-13fh03-fsdr0-dg4546-fsds",
+        "dn":"5530309999",
+        "tskId":"222-222222-22222-dg4546-fsds",
         "beneficiosBase":[
            {
               "benefitType":"Datos",
@@ -56,7 +56,7 @@
            },
            {
               "benefitType":"Vigencia",
-              "benefitQuantity":"5 días"
+              "benefitQuantity":"3 días"
            }
         ],
         "beneficiosOferta":[
@@ -80,8 +80,8 @@
      },
      {
         "topupAmount": "150",
-        "dn": "5530301228",
-        "tskId": "1212-13fh03-fsdr0-dg4546-fsds",
+        "dn": "55303055555",
+        "tskId": "3333-3333333-333333-dg4546-fsds",
         "beneficiosBase": [
               {"benefitType": "Minutos", "benefitQuantity": "Ilimitados"},
               {"benefitType": "Mensajes", "benefitQuantity": "Ilimitados"},
