@@ -18,7 +18,7 @@
                 "benefitQuantity":"Ilimitados"
              },
              {
-                "benefitType":"Llamadas",
+                "benefitType":"Mensajes",
                 "benefitQuantity":"Ilimitados"
              },
              {
@@ -49,6 +49,10 @@
            {
               "benefitType":"Mensajes",
               "benefitQuantity":"Ilimitados"
+           },
+            {
+              "benefitType":"Videos",
+              "benefitQuantity":"1 GB"
            },
            {
               "benefitType":"Redes Sociales",
@@ -83,6 +87,7 @@
         "dn": "55303055555",
         "tskId": "3333-3333333-333333-dg4546-fsds",
         "beneficiosBase": [
+              {"benefitType": "Datos", "benefitQuantity": "500 MB"},
               {"benefitType": "Minutos", "benefitQuantity": "Ilimitados"},
               {"benefitType": "Mensajes", "benefitQuantity": "Ilimitados"},
               {"benefitType": "Redes Sociales", "benefitQuantity": "Ilimitadas"},
