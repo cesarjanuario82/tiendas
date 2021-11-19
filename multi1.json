@@ -88,6 +88,14 @@
         "tskId": "3333-3333333-333333-dg4546-fsds",
         "beneficiosBase": [
               {"benefitType": "Datos", "benefitQuantity": "500 MB"},
+            {
+              "benefitType":"Videos",
+              "benefitQuantity":"2 GB"
+           },
+            {
+              "benefitType":"Spotify",
+              "benefitQuantity":"1 GB"
+           },
               {"benefitType": "Minutos", "benefitQuantity": "Ilimitados"},
               {"benefitType": "Mensajes", "benefitQuantity": "Ilimitados"},
               {"benefitType": "Redes Sociales", "benefitQuantity": "Ilimitadas"},
