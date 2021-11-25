@@ -1,0 +1,107 @@
+{
+    "status": "000",
+    "crm": "SAS",
+    "fechaVigencia": "2021-08-25 00:00:00",
+    "diasVigencia": 3,
+    "oferta": [
+        {
+            "topupAmount": "50",
+            "dn": "5628235681",
+            "tskId": "5628235681-2-1637079814",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "500 MB"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "5 días"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "1 GB"
+                }
+            ]
+        },
+        {
+            "topupAmount": "100",
+            "dn": "2222235681",
+            "tskId": "2222235681-2-1637079814",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "500 MB"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "5 días"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "1.5 GB"
+                }
+            ]
+        },
+        {
+            "topupAmount": "150",
+            "dn": "333335681",
+            "tskId": "333335681-2-1637079814",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "500 MB"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "5 días"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "2 GB"
+                }
+            ]
+        }
+    ]
+}
