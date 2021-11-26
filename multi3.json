@@ -1,55 +1,51 @@
 {
     "status": "000",
-    "crm": "SAS",
-    "fechaVigencia": "2021-08-25 00:00:00",
-    "diasVigencia": 3,
+    "crm": "KAIROS",
+    "fechaVigencia": "2021-11-25 23:59:59.0",
+    "diasVigencia": 1,
     "oferta": [
         {
             "topupAmount": "50",
-            "dn": "5628235681",
-            "tskId": "5628235681-2-1637079814",
+            "dn": "5516016650",
+            "tskId": "5516016650-3-1637866390",
             "beneficiosBase": [
                 {
-                    "benefitType": "Datos",
-                    "benefitQuantity": "500 MB"
-                },
-                {
-                    "benefitType": "Minutos",
-                    "benefitQuantity": "Ilimitados"
-                },
-                {
-                    "benefitType": "Mensajes",
-                    "benefitQuantity": "Ilimitados"
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "5 días"
                 },
                 {
                     "benefitType": "Redes Sociales ",
                     "benefitQuantity": "Ilimitadas"
                 },
                 {
-                    "benefitType": "Vigencia",
-                    "benefitQuantity": "5 días"
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "500 MB"
                 }
             ],
             "beneficiosOferta": [
                 {
-                    "benefitType": "Datos",
-                    "benefitQuantity": "1 GB"
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "11 días"
+                },
+                {
+                    "benefitType": "Video",
+                    "benefitQuantity": "8 GB"
                 }
             ]
         },
         {
-            "topupAmount": "100",
-            "dn": "2222235681",
-            "tskId": "2222235681-2-1637079814",
+            "topupAmount": "30",
+            "dn": "5516016650",
+            "tskId": "5516016650-2-1637866390",
             "beneficiosBase": [
-                {
-                    "benefitType": "Datos",
-                    "benefitQuantity": "500 MB"
-                },
-                {
-                    "benefitType": "Minutos",
-                    "benefitQuantity": "Ilimitados"
-                },
                 {
                     "benefitType": "Mensajes",
                     "benefitQuantity": "Ilimitados"
@@ -60,46 +56,62 @@
                 },
                 {
                     "benefitType": "Vigencia",
-                    "benefitQuantity": "5 días"
+                    "benefitQuantity": "3 días"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "300 MB"
                 }
             ],
             "beneficiosOferta": [
                 {
-                    "benefitType": "Datos",
-                    "benefitQuantity": "1.5 GB"
+                    "benefitType": "Video",
+                    "benefitQuantity": "5 GB"
+                },
+                {
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "11 días"
                 }
             ]
         },
         {
-            "topupAmount": "150",
-            "dn": "333335681",
-            "tskId": "333335681-2-1637079814",
+            "topupAmount": "20",
+            "dn": "5516016650",
+            "tskId": "5516016650-1-1637866390",
             "beneficiosBase": [
                 {
-                    "benefitType": "Datos",
-                    "benefitQuantity": "500 MB"
-                },
-                {
-                    "benefitType": "Minutos",
-                    "benefitQuantity": "Ilimitados"
-                },
-                {
-                    "benefitType": "Mensajes",
-                    "benefitQuantity": "Ilimitados"
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
                 },
                 {
                     "benefitType": "Redes Sociales ",
                     "benefitQuantity": "Ilimitadas"
                 },
                 {
-                    "benefitType": "Vigencia",
-                    "benefitQuantity": "5 días"
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "200 MB"
                 }
             ],
             "beneficiosOferta": [
                 {
-                    "benefitType": "Datos",
-                    "benefitQuantity": "2 GB"
+                    "benefitType": "Video",
+                    "benefitQuantity": "3 GB"
+                },
+                {
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "5 días"
                 }
             ]
         }
