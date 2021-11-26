@@ -1,0 +1,107 @@
+{
+    "status": "002",
+    "crm": "KAIROS",
+    "fechaVigencia": "2021-11-25 23:59:59.0",
+    "diasVigencia": 0,
+    "oferta": [
+        {
+            "topupAmount": "50",
+            "dn": "5516203638",
+            "tskId": "5516203638-3-1637866390",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "5 días"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "500 MB"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Música",
+                    "benefitQuantity": "8 GB"
+                }
+            ]
+        },
+        {
+            "topupAmount": "30",
+            "dn": "5516203638",
+            "tskId": "5516203638-2-1637866390",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "3 días"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "300 MB"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Música",
+                    "benefitQuantity": "5 GB"
+                }
+            ]
+        },
+        {
+            "topupAmount": "20",
+            "dn": "5516203638",
+            "tskId": "5516203638-1-1637866390",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "200 MB"
+                },
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Música",
+                    "benefitQuantity": "1 GB"
+                }
+            ]
+        }
+    ]
+}
