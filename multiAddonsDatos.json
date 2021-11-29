@@ -1,0 +1,119 @@
+{
+    "status": "000",
+    "crm": "KAIROS",
+    "fechaVigencia": "2099-12-31 00:00:00.0",
+    "diasVigencia": 28522,
+    "oferta": [
+        {
+            "topupAmount": "15",
+            "dn": "11111111111",
+            "tskId": "1111111111-111111111",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "150 MB"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "4 días"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "500 MB"
+                }
+            ]
+        },
+       {
+            "topupAmount": "30",
+            "dn": "2222222222",
+            "tskId": "2222222222-111111111",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "150 MB"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "4 días"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "600 MB"
+                }
+            ]
+        },
+       {
+            "topupAmount": "50",
+            "dn": "3333333333",
+            "tskId": "33333333331-111111111",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "150 MB"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "de vigencia",
+                    "benefitQuantity": "4 días"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "700 MB"
+                }
+            ]
+        }
+    ]
+}
