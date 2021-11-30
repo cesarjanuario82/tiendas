@@ -1,0 +1,53 @@
+{
+    "status": "000",
+    "crm": "KAIROS",
+    "fechaVigencia": "2099-12-31 00:00:00.0",
+    "diasVigencia": 28522,
+    "oferta": [
+        {
+            "topupAmount": "20",
+            "dn": "11111111111",
+            "tskId": "1111111111-111111111",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "200 MB"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Días adicionales de minutos",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Días adicionales de SMS",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Días adicionales de RRSS",
+                    "benefitQuantity": "1 día"
+                },
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "1 GB"
+                }
+            ]
+        }
+    ]
+}
