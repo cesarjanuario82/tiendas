@@ -1,0 +1,37 @@
+{
+"status": "000",
+"crm": "SAS",
+"fechaVigencia": "2022-04-05 00:00:00",
+"diasVigencia": 3,
+"oferta": [
+{
+"topupAmount": "50",
+"dn": "5530301228",
+"tskId": "1212-13fh03-fsdr0-dg4546-fsds",
+"beneficiosBase": [
+{
+"benefitType": "Datos",
+"benefitQuantity": "500 MB"
+},
+{
+"benefitType": "Minutos",
+"benefitQuantity": "Ilimitados"
+},
+{
+"benefitType": "Llamadas",
+"benefitQuantity": "Ilimitados"
+},
+{
+"benefitType": "Vigencia",
+"benefitQuantity": "30 días"
+}
+],
+"beneficiosOferta": [
+{
+"benefitType": "Datos",
+"benefitQuantity": "500 MB"
+}
+]
+}
+]
+}
