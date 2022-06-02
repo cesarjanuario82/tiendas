@@ -8,7 +8,7 @@
       "tskId": "1111111111-111111111",
       "activated": 0,
       "recommended": 0,
-      "topupAmount": 50,
+      "topupAmount": "50",
       "beneficiosBase": [
         {
           "groupId": -1,
@@ -31,7 +31,7 @@
       "tskId": "1111111111-111111112",
       "activated": 0,
       "recommended": 1,
-      "topupAmount": 100,
+      "topupAmount": "100",
       "beneficiosBase": [
         {
           "groupId": -1,
@@ -63,7 +63,7 @@
       "tskId": "1111111111-111111113",
       "activated": 0,
       "recommended": 0,
-      "topupAmount": 150,
+      "topupAmount": "150",
       "beneficiosBase": [
         {
           "groupId": -1,
