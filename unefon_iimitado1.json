@@ -30,8 +30,8 @@
       "beneficiosOferta": [
         {
           "validity": "1 día",
-          "benefitQuantity": "Ilimitado**",
-          "benefitDescription": "adicional Todo"
+          "benefitQuantity": 1,
+          "benefitDescription": "Todo ilimitado**"
         }
       ]
     },
@@ -54,8 +54,8 @@
       "beneficiosOferta": [
         {
           "validity": "1 día",
-          "benefitQuantity": "Ilimitado**",
-          "benefitDescription": "adicional Todo"
+          "benefitQuantity": 1,
+          "benefitDescription": "Todo ilimitado**"
         }
       ]
     },
@@ -86,8 +86,8 @@
       "beneficiosOferta": [
         {
           "validity": "1 día",
-          "benefitQuantity": "Ilimitado**",
-          "benefitDescription": "adicional Todo"
+          "benefitQuantity": 1,
+          "benefitDescription": "Todo ilimitado**"
         }
       ]
     }
