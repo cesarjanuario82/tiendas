@@ -1,0 +1,100 @@
+{
+  "dn": "1111111111",
+  "crm": "KAIROS",
+  "legal": "*Cada 24 horas se realizará el cobro automático de $10 para otorgar servicio ilimitado de minutos, mensajes y megas; este cobro aplica siempre que se cuente con saldo suficiente.|** Días adicionales de minutos, mensajes y MB ilimitados para uso en Mex.",
+  "oferta": [
+    {
+      "orden": 1,
+      "tskId": "1111111111-111111112",
+      "activated": 0,
+      "recommended": 0,
+      "topupAmount": "100.00",
+      "beneficiosBase": [
+        {
+          "groupId": 1,
+          "section": 1,
+          "validity": "30 días",
+          "subbenefit": [],
+          "benefitQuantity": "Todo Ilimitado*",
+          "benefitDescription": ""
+        },
+        {
+          "groupId": -1,
+          "section": 1,
+          "validity": "30 días",
+          "subbenefit": [],
+          "benefitQuantity": "Ilimitados",
+          "benefitDescription": "WhatsApp"
+        }
+      ],
+      "beneficiosOferta": [
+        {
+          "validity": "1 día",
+          "benefitQuantity": 1,
+          "benefitDescription": "Todo ilimitado**"
+        }
+      ]
+    },
+    {
+      "orden": 100,
+      "tskId": "1111111111-111111111",
+      "activated": 0,
+      "recommended": 1,
+      "topupAmount": "50.00",
+      "beneficiosBase": [
+        {
+          "groupId": 1,
+          "section": 1,
+          "validity": "30 días",
+          "subbenefit": [],
+          "benefitQuantity": "Todo Ilimitado*",
+          "benefitDescription": ""
+        }
+      ],
+      "beneficiosOferta": [
+        {
+          "validity": "1 día",
+          "benefitQuantity": 1,
+          "benefitDescription": "Todo ilimitado**"
+        }
+      ]
+    },
+    {
+      "orden": 100,
+      "tskId": "1111111111-111111113",
+      "activated": 0,
+      "recommended": 0,
+      "topupAmount": "150.00",
+      "beneficiosBase": [
+        {
+          "groupId": 1,
+          "section": 1,
+          "validity": "30 días",
+          "subbenefit": [],
+          "benefitQuantity": "Todo Ilimitado*",
+          "benefitDescription": ""
+        },
+        {
+          "groupId": -1,
+          "section": 1,
+          "validity": "30 días",
+          "subbenefit": [],
+          "benefitQuantity": "Ilimitados",
+          "benefitDescription": "WhatsApp"
+        }
+      ],
+      "beneficiosOferta": [
+        {
+          "validity": "1 día",
+          "benefitQuantity": 1,
+          "benefitDescription": "Todo ilimitado**"
+        }
+      ]
+    }
+  ],
+  "planId": 1,
+  "status": "002",
+  "diasVigencia": -1,
+  "fechaRedimido": "",
+  "fechaVigencia": "2022-05-02 16:12:04"
+}
