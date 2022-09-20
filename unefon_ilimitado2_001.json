@@ -1,0 +1,101 @@
+{
+    "dn": "2961227092",
+    "crm": "KAIROS",
+    "legal": "*Días de minutos, mensajes y MB Ilimitados|** Días adicionales de minutos, mensajes y MB ilimitados para uso en Mex.|Consulta coberturas, términos y condiciones de la oferta en unefon.com.mx",
+    "oferta": [
+        {
+            "orden": 100,
+            "tskId": "2961227092-1-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "15.00",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": ""
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "2 días",
+                    "benefitQuantity": "2",
+                    "benefitDescription": "Todo Ilimitado**"
+                }
+            ]
+        },
+        {
+            "orden": 100,
+            "tskId": "2961227092-2-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "20.00",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": ""
+                },
+                {
+                    "groupId": 2,
+                    "section": 3,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "Min, SMS, WhatsApp Ilimitado",
+                    "benefitDescription": ""
+                },
+                {
+                    "groupId": -1,
+                    "section": 3,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "500 MB",
+                    "benefitDescription": "Datos"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "3 días",
+                    "benefitQuantity": "3",
+                    "benefitDescription": "Todo Ilimitado**"
+                }
+            ]
+        },
+        {
+            "orden": 100,
+            "tskId": "2961227092-3-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "30.00",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "2 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": ""
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "4 días",
+                    "benefitQuantity": "4",
+                    "benefitDescription": "Todo Ilimitado**"
+                }
+            ]
+        }
+    ],
+    "planId": 2,
+    "status": "001",
+    "redeemedStatus": "001",
+    "diasVigencia": 366,
+    "fechaRedimido": "",
+    "fechaVigencia": "2023-06-27 08:22:36"
+}
