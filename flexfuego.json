@@ -1,0 +1,100 @@
+{
+    "dn": "2841170426",
+    "crm": "KAIROS",
+    "legal": "*MB de navegación libre para uso en México.|**Min, SMS y Redes Sociales para uso en México. Aplica política de uso  (llamadas, mensajes y redes sociales).|© WhatsApp Inc.© Facebook 2022. ©2022 Twitter, INC. ©2022 INSTAGRAM, INC. © 2022 Snap Inc.",
+    "oferta": [
+        {
+            "orden": 100,
+            "tskId": "2841170426-1-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "50.00",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "5 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "500 MB*",
+                    "benefitDescription": "Datos"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "1 GB"
+                },
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "1 GB"
+                }
+            ]
+        },
+        {
+            "orden": 100,
+            "tskId": "2841170426-2-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "100.00",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "14 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "1,000 MB*",
+                    "benefitDescription": "Datos"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "2",
+                    "benefitDescription": "2 GB"
+                },
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "2",
+                    "benefitDescription": "2 GB"
+                }
+            ]
+        },
+        {
+            "orden": 100,
+            "tskId": "2841170426-3-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "150.00",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "25 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "1,500 MB*",
+                    "benefitDescription": "Datos"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "3",
+                    "benefitDescription": "3 GB"
+                },
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "3",
+                    "benefitDescription": "3 GB"
+                }
+            ]
+        }
+    ],
+    "planId": 4,
+    "status": "000",
+    "redeemedStatus": "000",
+    "diasVigencia": 366,
+    "fechaRedimido": "",
+    "fechaVigencia": "2023-09-22 16:09:57"
+}
