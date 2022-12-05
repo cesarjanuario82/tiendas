@@ -1,0 +1,139 @@
+{
+    "dn": "2462505110",
+    "crm": "KAIROS",
+    "legal": "*La cantidad de datos a otorgar depende del monto de la recarga: de $10 a $30 recibirán 100 MB diarios de navegación libre. / De $50 a $1,000 recibirán 300 MB diarios de navegación libre.|** MB para uso exclusivo de las aplicaciones Facebook y Facebook Messenger de acuerdo al monto de la recarga. En recargas de $50 a $120 se asignan 50 MB diarios para Facebook / En recargas de $150 a $1,000 se asignan 100 MB diarios para Facebook.|Min, SMS y MB para uso en México. Aplica política de uso (llamadas, mensajes y redes sociales) Consulta coberturas, términos y condiciones de la oferta en unefon.com.mx © WhatsApp Inc.",
+    "oferta": [
+        {
+            "orden": 100,
+            "tskId": "2462505110-1-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "50.00",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "10 días",
+                    "subbenefit": [
+                        {
+                            "subBenefitDescription": "",
+                            "subBenefitQuantity": "300 MB diarios"
+                        }
+                    ],
+                    "benefitQuantity": "3,000 MB*",
+                    "benefitDescription": "Datos"
+                },
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "10 días",
+                    "subbenefit": [
+                        {
+                            "subBenefitDescription": "",
+                            "subBenefitQuantity": "50 MB diarios"
+                        }
+                    ],
+                    "benefitQuantity": "500 MB",
+                    "benefitDescription": "Datos Facebook **"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": 0,
+                    "benefitQuantity": "1",
+                    "benefitDescription": "1 GB para FB/FB Watch, Twitter, Instagram"
+                }
+            ]
+        },
+        {
+            "orden": 100,
+            "tskId": "2462505110-2-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "100.00",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "21 días",
+                    "subbenefit": [
+                        {
+                            "subBenefitDescription": "",
+                            "subBenefitQuantity": "300 MB diarios"
+                        }
+                    ],
+                    "benefitQuantity": "6,300 MB*",
+                    "benefitDescription": "Datos"
+                },
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "21 días",
+                    "subbenefit": [
+                        {
+                            "subBenefitDescription": "",
+                            "subBenefitQuantity": "50 MB diarios"
+                        }
+                    ],
+                    "benefitQuantity": "1,050 MB",
+                    "benefitDescription": "Datos Facebook **"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": 0,
+                    "benefitQuantity": "2",
+                    "benefitDescription": "2 GB para FB/FB Watch, Twitter, Instagram"
+                }
+            ]
+        },
+        {
+            "orden": 100,
+            "tskId": "2462505110-3-1654196952",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "150.00",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "28 días",
+                    "subbenefit": [
+                        {
+                            "subBenefitDescription": "",
+                            "subBenefitQuantity": "300 MB diarios"
+                        }
+                    ],
+                    "benefitQuantity": "8,400 MB*",
+                    "benefitDescription": "Datos"
+                },
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "28 días",
+                    "subbenefit": [
+                        {
+                            "subBenefitDescription": "",
+                            "subBenefitQuantity": "100 MB diarios"
+                        }
+                    ],
+                    "benefitQuantity": "2,800 MB",
+                    "benefitDescription": "Datos Facebook **"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": 0,
+                    "benefitQuantity": "3",
+                    "benefitDescription": "3 GB para FB/FB Watch, Twitter, Instagram"
+                }
+            ]
+        }
+    ],
+    "planId": 3,
+    "status": "000",
+    "redeemedStatus": "000",
+    "diasVigencia": 366,
+    "fechaRedimido": "",
+    "fechaVigencia": "2023-06-25 15:39:20"
+}
