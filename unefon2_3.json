@@ -8,7 +8,7 @@
             "tskId": "2462505110-1-1654196952",
             "activated": 0,
             "recommended": 0,
-            "topupAmount": "50.00",
+            "topupAmount": "10.00",
             "beneficiosBase": [
                 {
                     "groupId": -1,
@@ -28,10 +28,7 @@
                     "section": 1,
                     "validity": "10 días",
                     "subbenefit": [
-                        {
-                            "subBenefitDescription": "",
-                            "subBenefitQuantity": "50 MB diarios"
-                        }
+                        
                     ],
                     "benefitQuantity": "500 MB",
                     "benefitDescription": "Datos Facebook **"
