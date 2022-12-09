@@ -1,0 +1,118 @@
+{
+    "dn": "4131343291",
+    "crm": "SAS",
+    "legal": "*Días de minutos, mensajes y MB Ilimitados|** Días adicionales de minutos, mensajes y MB ilimitados para uso en Mex.|Consulta coberturas, términos y condiciones de la oferta en unefon.com.mx",
+    "oferta": [
+        {
+            "orden": 1,
+            "tskId": "4131343291-1-1670483837",
+            "activated": 0,
+            "recommended": 1,
+            "topupAmount": "120",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "12 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "120"
+                },
+                {
+                    "groupId": -1,
+                    "section": 3,
+                    "validity": "18 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Ilimitado",
+                    "benefitDescription": "WhatsApp",
+                    "topupAmount": "120"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "de Todo Ilimitado**"
+                }
+            ],
+            "validity": "18 días"
+        },
+        {
+            "orden": 2,
+            "tskId": "4131343291-2-1670483837",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "120",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "12 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "120"
+                },
+                {
+                    "groupId": -1,
+                    "section": 3,
+                    "validity": "18 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Ilimitado",
+                    "benefitDescription": "WhatsApp",
+                    "topupAmount": "120"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "de Todo Ilimitado**"
+                }
+            ],
+            "validity": "18 días"
+        },
+        {
+            "orden": 3,
+            "tskId": "4131343291-3-1670483837",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "120",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "12 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "120"
+                },
+                {
+                    "groupId": -1,
+                    "section": 3,
+                    "validity": "18 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Ilimitado",
+                    "benefitDescription": "WhatsApp",
+                    "topupAmount": "120"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "de Todo Ilimitado**"
+                }
+            ],
+            "validity": "18 días"
+        }
+    ],
+    "planId": 2,
+    "status": "000",
+    "redeemedStatus": "000",
+    "diasVigencia": 3,
+    "fechaRedimido": "",
+    "fechaVigencia": "2022-12-10 23:59:59"
+}
