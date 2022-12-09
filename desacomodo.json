@@ -1,0 +1,91 @@
+{
+    "dn": "7752014745",
+    "crm": "SAS",
+    "legal": "*Cada 24 horas se realizará el cobro automático de $10 para otorgar servicio ilimitado de minutos, mensajes y megas; este cobro aplica siempre que se cuente con saldo suficiente.|** Días adicionales de minutos, mensajes y MB ilimitados para uso en Mex.",
+    "oferta": [
+        {
+            "orden": 1,
+            "tskId": "7752014745-1-1670483837",
+            "activated": 0,
+            "recommended": 1,
+            "topupAmount": "500",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "50 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "500"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "2 días",
+                    "benefitQuantity": "2",
+                    "benefitDescription": "de Todo Ilimitado**"
+                }
+            ],
+            "validity": "50 días"
+        },
+        {
+            "orden": 2,
+            "tskId": "7752014745-2-1670483837",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "10",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "10"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "4 días",
+                    "benefitQuantity": "4",
+                    "benefitDescription": "de Minutos y SMS Ilimitados"
+                }
+            ],
+            "validity": "1 día"
+        },
+        {
+            "orden": 3,
+            "tskId": "7752014745-3-1670483837",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "50",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "30 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "50"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "1 día",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "de Todo Ilimitado**"
+                }
+            ],
+            "validity": "30 días"
+        }
+    ],
+    "planId": 1,
+    "status": "000",
+    "redeemedStatus": "000",
+    "diasVigencia": 3,
+    "fechaRedimido": "",
+    "fechaVigencia": "2022-12-10 23:59:59"
+}
