@@ -1,0 +1,118 @@
+{
+    "dn": "3223106125",
+    "crm": "SAS",
+    "legal": "*Días de minutos, mensajes y MB Ilimitados. |Consulta coberturas, términos y condiciones de la oferta en unefon.com.mx|** Días adicionales de minutos, mensajes y MB ilimitados para uso en Mex.|Consulta coberturas, términos y condiciones de la oferta en unefon.com.mx",
+    "oferta": [
+        {
+            "orden": 1,
+            "tskId": "3223106125-1-1670614463",
+            "activated": 0,
+            "recommended": 1,
+            "topupAmount": "200.00",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "20 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "200.00"
+                },
+                {
+                    "groupId": -1,
+                    "section": 3,
+                    "validity": "10 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Ilimitado",
+                    "benefitDescription": "WhatsApp",
+                    "topupAmount": "200.00"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "6 días",
+                    "benefitQuantity": "6",
+                    "benefitDescription": "de Minutos y SMS Ilimitados"
+                }
+            ],
+            "validity": "10 días"
+        },
+        {
+            "orden": 2,
+            "tskId": "3223106125-2-1670614463",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "30.00",
+            "beneficiosBase": [
+                {
+                    "groupId": 1,
+                    "section": 1,
+                    "validity": "2 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "Todo Ilimitado*",
+                    "benefitDescription": "",
+                    "topupAmount": "30.00"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "3 días",
+                    "benefitQuantity": "3",
+                    "benefitDescription": "de Minutos y SMS Ilimitados"
+                }
+            ],
+            "validity": "2 días"
+        },
+        {
+            "orden": 3,
+            "tskId": "3223106125-3-1670614463",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "10.00",
+            "beneficiosBase": [
+                {
+                    "groupId": 3,
+                    "section": 1,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "Min y SMS Ilimitados",
+                    "benefitDescription": "",
+                    "topupAmount": "10.00"
+                },
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "500 MB",
+                    "benefitDescription": "Datos",
+                    "topupAmount": "10.00"
+                },
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "1 día",
+                    "subbenefit": [],
+                    "benefitQuantity": "Ilimitado",
+                    "benefitDescription": "WhatsApp",
+                    "topupAmount": "10.00"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "3 días",
+                    "benefitQuantity": "3",
+                    "benefitDescription": "de Minutos y SMS Ilimitados"
+                }
+            ],
+            "validity": "1 día"
+        }
+    ],
+    "planId": 2,
+    "status": "000",
+    "redeemedStatus": "000",
+    "diasVigencia": 327,
+    "fechaRedimido": "",
+    "fechaVigencia": "2023-12-10 23:59:59"
+}
