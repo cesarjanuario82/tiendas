@@ -1,0 +1,92 @@
+{
+    "dn": "5585308977",
+    "crm": "SAS",
+    "legal": "*MB de navegación libre para uso en México.|**Min, SMS y Redes Sociales para uso en México. Aplica política de uso  (llamadas, mensajes y redes sociales). | © WhatsApp Inc.© Facebook 2022. ©2022 Twitter, INC. ©2022 INSTAGRAM, INC. © 2022 Snap Inc.",
+    "oferta": [
+        {
+            "orden": 1,
+            "tskId": "5585308977-1-1677252176",
+            "activated": 0,
+            "recommended": 1,
+            "topupAmount": "50",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "5 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "500 MB*",
+                    "benefitDescription": "Datos",
+                    "topupAmount": "50"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "3 días",
+                    "benefitQuantity": "1",
+                    "benefitDescription": "1 GB"
+                }
+            ],
+            "validity": "5 días"
+        },
+        {
+            "orden": 2,
+            "tskId": "5585308977-2-1677252176",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "100",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "14 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "1000 MB*",
+                    "benefitDescription": "Datos",
+                    "topupAmount": "100"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "0 días",
+                    "benefitQuantity": "3",
+                    "benefitDescription": "3 GB"
+                }
+            ],
+            "validity": "14 días",
+            "seleccionado": true
+        },
+        {
+            "orden": 3,
+            "tskId": "5585308977-3-1677252176",
+            "activated": 0,
+            "recommended": 0,
+            "topupAmount": "500",
+            "beneficiosBase": [
+                {
+                    "groupId": -1,
+                    "section": 1,
+                    "validity": "30 días",
+                    "subbenefit": [],
+                    "benefitQuantity": "5000 MB*",
+                    "benefitDescription": "Datos",
+                    "topupAmount": "500"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "validity": "0 días",
+                    "benefitQuantity": "5",
+                    "benefitDescription": "5 GB"
+                }
+            ],
+            "validity": "30 días"
+        }
+    ],
+    "planId": 4,
+    "status": "001",
+    "redeemedStatus": "001",
+    "diasVigencia": 13,
+    "fechaRedimido": "",
+    "fechaVigencia": "2023-03-18 23:59:59"
+}
