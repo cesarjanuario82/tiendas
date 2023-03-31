@@ -4,34 +4,34 @@
   "mdn":"5215530302387",
   "estatus":"read",
   "fecha":"30/03/23 14:21:12",
-  "mensaje":{"body": "Texto Plantilla"}
+  "mensaje":'{"body": "Texto Plantilla"}'
   },
   {
   "id_mensaje":"wamid.HBgNNTIxNTUzMDMwMjM4NxUCABEYEjY5ODFCRTU5MEVGMEZBQzkzNAA=",
   "mdn":"5215530302387",
   "estatus":"sent",
   "fecha":"30/03/23 14:21:11",
-  "mensaje":{"body": "Texto Plantilla"}
+  "mensaje":'{"body": "Texto Plantilla"}'
   },
 {
   "id_mensaje":"wamid.HBgNNTIxNTUzMDMwMjM4NxUCABIYIDkwODMzN0E2QjVFRTAwRDBEMEM3RkI3RkY2RjUzNjg3AA==",
   "mdn":"5215530302387",
   "estatus":"chatResponseOK",
   "fecha":"30/03/23 14:21:08",
-  "mensaje":{"body": "Gracias"}
+  "mensaje":'{"body": "Gracias"}'
   },
 {
   "id_mensaje":"wamid.HBgNNTIxNTUzMDMwMjM4NxUCABEYEkY1MzZFRDE0ODc2NzQxREMwQQA=",
   "mdn":"5215530302387",
   "estatus":"Detener",
   "fecha":"30/03/23 14:20:55",
-  "mensaje":{"payload":"Detener","text":"Detener"}
+  "mensaje":'{"payload":"Detener","text":"Detener"}'
   },
 {
   "id_mensaje":"wamid.HBgNNTIxNTUzMDMwMjM4NxUCABEYEkY1MzZFRDE0ODc2NzQxREMwQQA=",
   "mdn":"5215530302387",
   "estatus":"read",
   "fecha":"30/03/23 12:08:10",
-  "mensaje":{"body": "Texto Plantilla"}
+  "mensaje":'{"body": "Texto Plantilla"}'
   }
  ]
