@@ -1,4 +1,4 @@
-{
+[
   {
   "id_mensaje":"wamid.HBgNNTIxNTUzMDMwMjM4NxUCABEYEjY5ODFCRTU5MEVGMEZBQzkzNAA=",
   "mdn":"5215530302387",
@@ -34,4 +34,4 @@
   "fecha":"30/03/23 12:08:10",
   "mensaje":{"body": "Texto Plantilla"}
   }
-}
+ ]
