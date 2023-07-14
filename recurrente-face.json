@@ -1,0 +1,42 @@
+{
+    "status": "000",
+    "crm": "SAS",
+    "fechaVigencia": "2023-07-11 23:59:58.0",
+    "diasVigencia": -1,
+    "fechaRedimido": "2023-06-30 11:17:14.0",
+    "oferta": [
+        {
+            "topupAmount": "10",
+            "dn": "2201760009",
+            "tskId": "2201760009-1-1688053768",
+            "beneficiosBase": [
+                {
+                    "benefitType": "Datos",
+                    "benefitQuantity": "100 MB"
+                },
+                {
+                    "benefitType": "Minutos",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Mensajes",
+                    "benefitQuantity": "Ilimitados"
+                },
+                {
+                    "benefitType": "Redes Sociales ",
+                    "benefitQuantity": "Ilimitadas"
+                },
+                {
+                    "benefitType": "Vigencia",
+                    "benefitQuantity": "1 día"
+                }
+            ],
+            "beneficiosOferta": [
+                {
+                    "benefitType": "Días adicionales de Facebook",
+                    "benefitQuantity": "15 días"
+                }
+            ]
+        }
+    ]
+}
